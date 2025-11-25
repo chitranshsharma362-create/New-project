@@ -1,26 +1,8 @@
-h1{
-  text-align: center;
+body{
+  margin:0;
 }
-
-.Main{
-  display: flex;
-  text-align: center;
-  width: 100%;
+.header{
+  width:100%;
+  height:10%;
+  background-color:brown;
 }
-.DIVone{
-  background-color: red;
-  width: 50%;
-}
-.DIVtwo{
-  background-color: blue;
-  width: 50%;
-}
-@media (max-width: 576px){
-  .main{ 
-    flex-direction: column; }
-  .DIVone{
-    width: 100%;
-  }
-  .DIVtwo{
-    width: 100%;
-  }
