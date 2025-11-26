@@ -6,3 +6,8 @@ body{
   height: 10%;
   background-color: brown;
 }
+@media (max-width:576px){
+  .header{
+    background-color: green;
+  }
+}
