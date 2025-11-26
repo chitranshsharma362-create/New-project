@@ -12,6 +12,10 @@ body{
  width:30%;
   background-color:red;
 }
+.logo a img{
+  width: auto;
+  height: auto;
+}
 .menu{
   width:70%;
   background-color:yellow;
