@@ -19,7 +19,7 @@ body{
 }
 .logo img{
   width: auto;
-  height: auto;
+  height: 50px;
 }
 .menu{
   display:flex;
