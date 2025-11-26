@@ -10,11 +10,12 @@ body{
 
 .logo{
  width:30%;
+  height:100%;
   background-color:red;
   display:flex;
   justify-content: center;
 }
-.logo a img{
+.logo img{
   width: auto;
   height: auto;
 }
