@@ -6,6 +6,7 @@ body{
   width: 100%;
   height: 10%;
   display:flex;
+  align-item: center;
 }
 
 .logo{
@@ -13,6 +14,7 @@ body{
   height:100%;
   background-color:red;
   display:flex;
+  align-item:center;
   justify-content: center;
 }
 .logo img{
@@ -23,6 +25,10 @@ body{
   display:flex;
   width:80%;
   background-color:yellow;
+  align-item:center;
+  gap:30px;
+  padding-right:20px;
+  justify-content: flex-end;
 }
 .logo a{
   width:100%;
@@ -31,12 +37,15 @@ body{
 .menu a{
   color:black;
   text-decoration:none;
-  justify-content: space-between;
+  font-size:20px;
 }
 
 @media (max-width:576px){
   .header{
     height:7%;
     background-color:green;
+  }
+  .menu a{
+    font-size: 16px;
   }
 }
