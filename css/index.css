@@ -38,3 +38,6 @@
 .navbar ul li a {
   text-decoration:none;
 }
+.navbar ul{
+  list-style: none;
+}
