@@ -8,7 +8,7 @@
         height:10%; 
         /* background-color:aqua; */
         display:flex;
-        overflow:hidden;
+        overflow:none;
 }
 .logo{
         /* width:25%; */
