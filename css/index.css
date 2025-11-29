@@ -49,7 +49,7 @@
 .menu ul li a{
         text-decoration:none;
         color:black;
-        font-size:1.5vw;
+        /*font-size:1.5vw;*/
         position:absolute;
         font-size:min(1.5vw,1.5vw);
 }
