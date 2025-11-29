@@ -8,7 +8,6 @@
         height:10%; 
         /* background-color:aqua; */
         display:flex;
-        overflow:none;
 }
 .logo{
         /* width:25%; */
@@ -30,12 +29,10 @@
         /* display:flex; */
         flex:3;
         background-color:aqua;
-        overflow:none;
 }
 .menu .menubar{
         height:100%;
         width:80%;
-          overflow:none;
 }
 .menu .menubar ul{
         height:100%;
@@ -44,18 +41,15 @@
         padding-bottom:10%;
         align-items:center;
         gap:15vw;
-          overflow:none;
 }
 .menu ul li{
         list-style-type:none; 
-          overflow:none;
 }
 .menu ul li a{
         text-decoration:none;
         color:black;
         /*font-size:1.5vw;*/
         position:absolute;
-          overflow:none;
         font-size:min(1.5vw,1.5vw);
 }
 
