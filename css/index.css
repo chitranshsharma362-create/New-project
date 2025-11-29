@@ -41,7 +41,7 @@
         display:flex;
         padding-bottom:10%;
         align-items:center;
-        gap:10vw;
+        gap:15vw;
 }
 .menu ul li{
         list-style-type:none; 
