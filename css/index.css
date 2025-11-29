@@ -8,6 +8,7 @@
         height:10%; 
         /* background-color:aqua; */
         display:flex;
+        overflow:hidden;
 }
 .logo{
         /* width:25%; */
