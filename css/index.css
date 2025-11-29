@@ -43,7 +43,6 @@
         align-items:center;
         gap:15vw;
          position:relative;
-        top:-10px;
 }
 .menu ul li{
         list-style-type:none; 
