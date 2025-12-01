@@ -29,6 +29,7 @@
 }
 .menu ul{
   justify-content:center;
+  display:flex;
 }
 .menubar ul li a {
   text-decoration:none;
