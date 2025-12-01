@@ -48,3 +48,8 @@
         font-size:1.5vw;
         position:absolute;
 }
+@media(min-max:576px;){
+        .header{
+                height:7%;
+        }
+}
