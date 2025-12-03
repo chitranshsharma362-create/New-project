@@ -51,6 +51,7 @@
 .menu ul li a:hover{
         color:red;
         transform:scale(1.0);
+        text-decoration:underline;
 }
 @media(max-width:576px;){
         .header{
