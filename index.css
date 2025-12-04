@@ -90,8 +90,8 @@
         color:red;
 }
 .menu .menubar ul li.lastsub .submenu{ */
-        /* right:auto; */
-         left:auto;
+        right:auto;
+         /* left:auto; */
 }
 .menu .menubar ul li.lastsub{
         padding-right:50px;
