@@ -57,6 +57,8 @@
         }
 }
 .menu .menubar ul li .submenu{
+        height:auto;
+        width:auto;
         display:none;
         position:absolute;
         top:6%;
