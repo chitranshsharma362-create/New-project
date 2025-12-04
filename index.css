@@ -92,3 +92,6 @@
         right:0;
         left:auto;
 }
+.menu .menubar ul li.lastsub{
+        padding-right:10px;
+}
