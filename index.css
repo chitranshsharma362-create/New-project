@@ -58,7 +58,7 @@
 }
 .menu .menubar ul li .submenu{
         height:auto;
-        width:auto;
+        width:50px;
         display:none;
         position:absolute;
         top:6%;
