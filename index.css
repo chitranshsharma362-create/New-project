@@ -65,7 +65,7 @@
         border:1px solid black;
         z-index:10;
 }
-.menu.menubar ul li .submenu li{
+.menu .menubar ul li .submenu li{
         list-style-type:none;
         display:block;
 }
