@@ -64,7 +64,7 @@
         position:absolute;
         top:6%;
         left:auto;
-        background-color:white;
+        background-color:transparent;
         min-width:120px;
         border:1px solid black;
         z-index:10;
