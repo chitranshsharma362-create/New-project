@@ -64,7 +64,7 @@
         top:6%;
         left:auto;
         background-color:transparent;
-        man-width:120px;
+        max-width:120px;
         border:1px solid black;
         z-index:10;
         overflow:hidden;
@@ -83,6 +83,7 @@
         padding:5px 12px;
         white-space: nowrap;
         overflow:hidden;
+        text-overflow:ellpsis;
 }
 .menu .menubar ul li:hover .submenu{
         display:block;
