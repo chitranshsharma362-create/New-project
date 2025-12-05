@@ -42,7 +42,7 @@
 .menu .menubar ul li{
         list-style:none; 
         padding-bottom:2.5%;
-        height:100%;
+        /* height:100%; */
 }
 .menu .menubar ul li a{
         text-decoration:none;
