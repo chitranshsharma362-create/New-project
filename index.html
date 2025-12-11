@@ -15,9 +15,9 @@
       let currentPage =  window.location.pathname.split("/").pop();
       // menu me anchor tkk pauchne ka tarika
       let links = document.querySelectorAll(".menu .menubar ul li a");
-      if (!links){
-        alert("Do Again");
-      }
+      // if (!links){
+      //   alert("Do Again");
+      // }
 
       // hrr anchor ko process kia 
       links.forEach(link => {
@@ -30,12 +30,8 @@
         if (linkPage == currentPage){
           link.closest("li").classList.add("underline_current");
         }
-
-        
       });
-
-        });
-      
+   });
     </script>
     <h1> Hello world </h1>
   </body>
