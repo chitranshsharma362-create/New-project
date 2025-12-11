@@ -56,7 +56,7 @@
 }
 .menu ul li a:hover{
         color:red;
-        text-decoration:underline red;
+        /* text-decoration:underline red; */
 }
 @media(max-width:576px;){
         .header{
