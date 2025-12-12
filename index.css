@@ -53,7 +53,7 @@
 }
 .menu .menubar ul .underline_current > a{
         text-decoration:underline red;
-        txet-decoration-color: red;
+        text-decoration-color: red;
 }
 
 /*.menu ul li a:hover{
