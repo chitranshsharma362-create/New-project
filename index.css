@@ -72,7 +72,7 @@
         position:absolute;
         top:6%;
         left:auto;
-        background-color:DodgerBlue;
+        background-color:Cyan;
         max-width:150px;
         border:1px solid black;
         z-index:10;
@@ -98,8 +98,8 @@
         display:block;
 }
 .menu .menubar ul li .submenu li a:hover{
-        background-color:#f2f2f2;
-        color:red;
+        background-color:DarkCyan;
+        color:White;
         /* transform:scale(1.2); */
 }
 .menu .menubar ul li.lastsub .submenu{ */
